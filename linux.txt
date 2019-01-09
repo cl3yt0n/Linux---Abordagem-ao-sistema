@@ -37,4 +37,13 @@ gzip/gunzip
 zip 
 	zip nome.zip *.txt -> compactar
 	unzip nome.zip -> descompactar
+
+
+
+*****************ESTRUTURA DE DIRETÓRIOS*********************
+
+/bin 
+	armazena arquivos executáveis binários, que são os comandos base para a execução do sistema, por ex LS e o CD.
+	diretório público - qualquer usuário pode usar os executáveis que estão lá.
+
 	
