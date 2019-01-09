@@ -38,4 +38,3 @@ zip
 	zip nome.zip *.txt -> compactar
 	unzip nome.zip -> descompactar
 	
-
