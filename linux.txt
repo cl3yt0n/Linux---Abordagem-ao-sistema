@@ -1,0 +1,41 @@
+whatis - descrição de comandos
+
+find - localiza arquivos do sistema
+
+TeleTYpe ou TTY - ambiente de linha de comando
+
+file - informa se é texto, pasta e etc
+
+-c: cria um novo arquivo
+-f: indica que o destino é um arquivo em disco
+-v: exibe o nome de cada arquivo compactado
+-x: extrai os arquivos agrupados
+
+
+
+du - verifica o tamanho dos arquivos 
+
+
+*************COMPACTAÇÃO E DESCOMPACTAÇÃO DE ARQUIVOS************
+
+tar - 
+	tar -cf nome.tar -> compactar
+	tar -xvf nome.tar -> descompactar
+
+tar.gz
+	tar -czvf nome.tar.gz -> compactar
+	tar -zxvf nome.tar.gz -> descompactar
+
+tar.bz2
+	tar -cjvf nome.tar.bz2 -> compactar
+	tar -jxvf nome.tar.bz2 -> descompactar
+
+gzip/gunzip
+	gzip -c -r *.txt > nome.gz -> compactar
+	gunzip nome.gz -> descompactar
+
+zip 
+	zip nome.zip *.txt -> compactar
+	unzip nome.zip -> descompactar
+	
+
